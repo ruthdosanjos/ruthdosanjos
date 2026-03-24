@@ -43,7 +43,8 @@ Sou formada em **Bacharelado Interdisciplinar em Humanidades (UFRN)**, formaçã
 - Design Thinking e UX  
 
 ### ☕ Base de Programação
-- Java Básico  
+- C
+- Java
 - Lógica de Programação e POO  
 
 ---
