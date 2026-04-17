@@ -1,64 +1,77 @@
 # 👩🏻‍💻 Ruth Dos Anjos
 
-Me chamo **Ruth**, tenho **26 anos** e sou natural de **Natal – RN**. Estou em **transição de carreira para a área de Cibersegurança**, atuando também como **Desenvolvedora Front End**. Atualmente, curso a **graduação em Análise e Desenvolvimento de Sistemas (ADS)**.
+Sou **Desenvolvedora Front-end em formação**, graduanda em **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência em **suporte técnico N1** e base em **redes e cibersegurança**.
 
-Possuo as certificações **CCST Cybersecurity e CCST Networking (Cisco)** e experiência em **suporte técnico N1**, atuando com **diagnóstico de problemas de rede**, **troubleshooting** e apoio à resolução de **incidentes básicos de segurança da informação** em ambientes de TI.
+Atuo no desenvolvimento de aplicações web utilizando **HTML, CSS e JavaScript**, com foco em **qualidade de código, usabilidade e organização**. Minha experiência com **troubleshooting e análise de incidentes** fortalece minha capacidade de identificar, depurar e resolver problemas em sistemas e aplicações.
 
-Paralelamente, como **Front End Developer**, desenvolvo projetos com foco na **construção de interfaces web**, aplicação de **boas práticas de código** e compreensão do funcionamento de aplicações, conhecimentos que complementam minha atuação em segurança, especialmente em temas como **vulnerabilidades em aplicações web** e **proteção de dados**.
+Possuo certificações **CCST Cybersecurity e CCST Networking (Cisco)**, que agregam uma visão de **segurança, confiabilidade e análise de riscos**, aplicadas ao desenvolvimento de software.
 
-Sou formada em **Bacharelado Interdisciplinar em Humanidades (UFRN)**, formação que contribuiu para o desenvolvimento de **pensamento crítico, habilidades analíticas, comunicação clara e visão ética sobre tecnologia**, competências essenciais para atuação na área de segurança da informação.
+Sou formada em **Bacharelado Interdisciplinar em Humanidades (UFRN)**, o que contribui para meu **pensamento crítico, comunicação e visão centrada no usuário** na construção de soluções digitais.
 
 ---
 
-## 🔐 Áreas de interesse
-- Cibersegurança (nível júnior)
-- SOC / Blue Team
-- Segurança de Redes
-- Segurança de Endpoints
-- Monitoramento e resposta a incidentes
-- Desenvolvimento Front End
-- Segurança em aplicações web
+## 🚀 Áreas de interesse
+- Desenvolvimento Front-end  
+- Desenvolvimento de aplicações web  
+- Integração com APIs (em aprendizado)  
+- Testes e qualidade de software  
+- Segurança em aplicações web  
+- Cibersegurança (Blue Team)  
 
 ---
 
 ## 🛠️ Tecnologias e conhecimentos
 
-### 🔐 Cibersegurança & Redes
-- Fundamentos de Segurança da Informação  
-- Gestão de Ameaças Cibernéticas  
-- Defesa de Redes  
-- Segurança de Endpoints  
-- Endereçamento IP e Troubleshooting  
-
-### 💻 Desenvolvimento Front End
+### 💻 Desenvolvimento Web
 - HTML  
 - CSS  
 - JavaScript  
 - Bootstrap  
-- Construção de interfaces web responsivas  
-
-### ⚙️ Ferramentas e Metodologias
 - Git e GitHub  
-- Scrum e Kanban  
-- Design Thinking e UX  
+
+### 🧪 Qualidade e Análise
+- Troubleshooting e debugging  
+- Identificação e correção de falhas  
+- Validação de funcionalidades  
+
+### 🔐 Redes & Segurança
+- Fundamentos de Segurança da Informação  
+- TCP/IP e fundamentos de redes  
+- Monitoramento e resposta a incidentes  
+- Noções de vulnerabilidades em aplicações web  
 
 ### ☕ Base de Programação
-- C
-- Java
-- Lógica de Programação e POO  
+- Lógica de Programação  
+- Programação orientada a objetos (POO)  
+- Java e C (básico)  
+
+---
+
+## 🔍 Como aplico segurança no desenvolvimento
+- Estruturação de código organizada e previsível  
+- Atenção a possíveis vulnerabilidades em aplicações web  
+- Validação de entradas e tratamento de dados  
+- Pensamento voltado à confiabilidade e estabilidade das aplicações  
+
+---
+
+## 📌 Projetos em destaque
+- 💻 Portfólio pessoal (HTML, CSS e JavaScript)  
+- 🛍️ Projeto Loja Virtual  
+- 🔧 Projetos práticos focados em lógica e estruturação de aplicações  
 
 ---
 
 ## 🎓 Certificações
-- **CCST Cybersecurity – Cisco**  
-- **CCST Networking – Cisco**  
+- CCST Cybersecurity – Cisco  
+- CCST Networking – Cisco  
 
 ---
 
 ## 📂 Sobre este GitHub
-Este GitHub reúne projetos de **desenvolvimento front end**, exercícios práticos e estudos relacionados a **redes e cibersegurança**, refletindo meu processo de **aprendizado contínuo** e evolução técnica na área de TI.
+Este GitHub reúne projetos de **desenvolvimento web**, exercícios práticos e estudos aplicados, refletindo minha **evolução técnica na construção de aplicações**, com foco em **qualidade, organização e segurança**.
 
 ---
 
 ## 📫 Vamos nos conectar?
-- 💼 LinkedIn: [linkedin.com/in/ruth-dos-anjos](https://www.linkedin.com/in/ruth-dos-anjos)  
+- 💼 LinkedIn: https://www.linkedin.com/in/ruth-dos-anjos
