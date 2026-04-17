@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ruth Dos Anjos
 
-Sou **Desenvolvedora Front-end em formação**, graduanda em **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência em **suporte técnico N1** e base em **redes e cibersegurança**.
+Sou **Desenvolvedora Front-end**, graduanda em **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência em **suporte técnico N1** e base em **redes e cibersegurança**.
 
 Atuo no desenvolvimento de aplicações web utilizando **HTML, CSS e JavaScript**, com foco em **qualidade de código, usabilidade e organização**. Minha experiência com **troubleshooting e análise de incidentes** fortalece minha capacidade de identificar, depurar e resolver problemas em sistemas e aplicações.
 
