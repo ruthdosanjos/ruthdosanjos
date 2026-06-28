@@ -2,7 +2,7 @@
 
 Sou **Desenvolvedora Front-end**, graduanda em **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência em **suporte técnico N1** e base em **redes e cibersegurança**.
 
-Atuo no desenvolvimento de aplicações web utilizando **HTML, CSS e JavaScript**, com foco em **qualidade de código, usabilidade e organização**. Minha experiência com **troubleshooting e análise de incidentes** fortalece minha capacidade de identificar, depurar e resolver problemas em sistemas e aplicações.
+Atuo no desenvolvimento de aplicações web utilizando **HTML, JavaScript e React**, com foco em **qualidade de código, usabilidade e organização**. Minha experiência com **troubleshooting e análise de incidentes** fortalece minha capacidade de identificar, depurar e resolver problemas em sistemas e aplicações.
 
 Possuo certificações **CCST Cybersecurity e CCST Networking (Cisco)**, que agregam uma visão de **segurança, confiabilidade e análise de riscos**, aplicadas ao desenvolvimento de software.
 
@@ -13,7 +13,7 @@ Sou formada em **Bacharelado Interdisciplinar em Humanidades (UFRN)**, o que con
 ## 🚀 Áreas de interesse
 - Desenvolvimento Front-end  
 - Desenvolvimento de aplicações web  
-- Integração com APIs (em aprendizado)  
+- Integração com APIs
 - Testes e qualidade de software  
 - Segurança em aplicações web  
 - Cibersegurança (Blue Team)  
@@ -25,7 +25,8 @@ Sou formada em **Bacharelado Interdisciplinar em Humanidades (UFRN)**, o que con
 ### 💻 Desenvolvimento Web
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+- React
 - Bootstrap  
 - Git e GitHub  
 
@@ -43,7 +44,7 @@ Sou formada em **Bacharelado Interdisciplinar em Humanidades (UFRN)**, o que con
 ### ☕ Base de Programação
 - Lógica de Programação  
 - Programação orientada a objetos (POO)  
-- Java e C (básico)  
+- Java e C 
 
 ---
 
@@ -56,7 +57,7 @@ Sou formada em **Bacharelado Interdisciplinar em Humanidades (UFRN)**, o que con
 ---
 
 ## 📌 Projetos em destaque
-- 💻 Portfólio pessoal (HTML, CSS e JavaScript)  
+- 💻 Dashboard SOC (React) 
 - 🛍️ Projeto Loja Virtual  
 - 🔧 Projetos práticos focados em lógica e estruturação de aplicações  
 
@@ -65,12 +66,6 @@ Sou formada em **Bacharelado Interdisciplinar em Humanidades (UFRN)**, o que con
 ## 🎓 Certificações
 - CCST Cybersecurity – Cisco  
 - CCST Networking – Cisco  
-
----
-
-## 📂 Sobre este GitHub
-Este GitHub reúne projetos de **desenvolvimento web**, exercícios práticos e estudos aplicados, refletindo minha **evolução técnica na construção de aplicações**, com foco em **qualidade, organização e segurança**.
-
 ---
 
 ## 📫 Vamos nos conectar?
