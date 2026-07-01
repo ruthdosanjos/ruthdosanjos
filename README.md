@@ -31,9 +31,9 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## Sobre
 
-Comecei resolvendo problemas de rede e atendendo chamados de suporte N1 — foi ali que aprendi a pensar em sistemas, causas-raiz e confiabilidade antes de pensar em interfaces. As certificações Cisco em Networking e Cybersecurity vieram desse período e moldaram a forma como hoje encaro front-end: não como camada visual isolada, mas como parte de um sistema que precisa ser estável, seguro e bem estruturado.
+Comecei resolvendo problemas de rede e atendendo chamados de suporte N1, foi ali que aprendi a pensar em sistemas, causas-raiz e confiabilidade antes de pensar em interfaces. As certificações Cisco em Networking e Cybersecurity vieram desse período e moldaram a forma como hoje encaro front-end: não como camada visual isolada, mas como parte de um sistema que precisa ser estável, seguro e bem estruturado.
 
-Hoje curso Análise e Desenvolvimento de Sistemas e me dedico a React, JavaScript e arquitetura de interfaces, unindo essa base técnica a uma formação em Humanidades (UFRN) que me dá leitura de contexto e de usuário — algo que considero parte natural do trabalho de front-end, não um "extra".
+Hoje curso Análise e Desenvolvimento de Sistemas e me dedico a React, JavaScript e arquitetura de interfaces, unindo essa base técnica a uma formação em Humanidades (UFRN) que me dá leitura de contexto e de usuário, algo que considero parte natural do trabalho de front-end, não um "extra".
 
 Meu foco atual: construir interfaces limpas e escaláveis com a mesma disciplina que antes eu aplicava para manter uma rede no ar.
 
