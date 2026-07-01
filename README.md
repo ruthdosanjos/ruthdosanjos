@@ -102,27 +102,11 @@ Não é um projeto de curso: foi pensado como um produto real, com atenção a h
 
 E-commerce front-end com fluxo de listagem, carrinho e navegação de produtos, com foco em usabilidade e organização de componentes.
 
-`React` `JavaScript` `CSS`
-
 [Ver demo →](https://projeto-loja-jet.vercel.app)
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-<div align="center">
-
-## GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruthdosanjos&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=3B82F6&text_color=E2E8F0&border_color=1E293B&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthdosanjos&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&border_color=1E293B&hide_border=false" width="48%" />
-
-</div>
-
-<br/>
 
 <!-- ===================== ROADMAP / JORNADA ===================== -->
 ## Jornada
