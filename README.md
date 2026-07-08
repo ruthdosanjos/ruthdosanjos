@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HERO / BANNER ===================== -->
-<img src="./assets/banner.png" alt="Ruth Dos Anjos — Front-end Developer" width="100%" />
+<img src="./assets/banneruth.png" alt="Ruth Dos Anjos — Front-end Developer" width="100%" />
 
 <br/>
 
