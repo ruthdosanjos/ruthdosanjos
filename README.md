@@ -100,7 +100,9 @@ Não é um projeto de curso: foi pensado como um produto real, com atenção a h
 
 **🛍️ Lumière Bags**
 
-E-commerce front-end com fluxo de listagem, carrinho e navegação de produtos, com foco em usabilidade e organização de componentes.
+A LUMIÈRE é um e-commerce fictício de bolsas com estética minimalista e sofisticada, desenvolvido como projeto de portfólio front-end. O objetivo é simular a experiência de navegação de uma marca de moda premium, unindo um design elegante a uma arquitetura de código organizada, escalável e preparada para futuras evoluções.
+
+Mais do que uma interface visualmente agradável, este projeto demonstra conhecimentos sólidos em desenvolvimento front-end, com foco em HTML semântico, CSS modular, JavaScript Vanilla, acessibilidade, performance e organização de software.
 
 <div align="center">
 <img src="./assets/lumiere-preview.jpeg" alt="Lumière Bags" width="100%" />
