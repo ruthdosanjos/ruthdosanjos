@@ -98,9 +98,13 @@ Não é um projeto de curso: foi pensado como um produto real, com atenção a h
 <tr>
 <td width="100%">
 
-**🛍️ Loja Virtual**
+**🛍️ Lumière Bags**
 
 E-commerce front-end com fluxo de listagem, carrinho e navegação de produtos, com foco em usabilidade e organização de componentes.
+
+<div align="center">
+<img src="./assets/lumiere-preview.png" alt="Lumière Bags" width="100%" />
+</div>
 
 [Ver demo →](https://projeto-loja-jet.vercel.app)
 
