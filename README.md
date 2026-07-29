@@ -108,7 +108,7 @@ Mais do que uma interface visualmente agradável, este projeto demonstra conheci
 <img src="./assets/lumiere-preview.jpeg" alt="Lumière Bags" width="100%" />
 </div>
 
-[Ver demo →](https://projeto-loja-jet.vercel.app)
+[Ver demo →](https://lumiere-bags.vercel.app/)
 
 </td>
 </tr>
