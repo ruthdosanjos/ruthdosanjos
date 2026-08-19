@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/ruthdosanjos">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-end+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Networking+%26+Cybersecurity+(Cisco);Building+products+with+clean+architecture." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-end+Developer;React+%7C+TypeScript+%7C+JavaScript;Interfaces+acess%C3%ADveis+e+responsivas;Networking+%26+Cybersecurity+(Cisco)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,22 +27,22 @@
 
 # Sobre
 
-Comecei minha carreira em suporte técnico e infraestrutura, atuando com troubleshooting de redes e atendimento N1. Essa experiência me ensinou a pensar em sistemas, confiabilidade e causas-raiz antes mesmo de trabalhar com interfaces.
+Comecei minha carreira em suporte técnico e infraestrutura, atuando com troubleshooting de redes e atendimento N1. Essa experiência desenvolveu minha capacidade de investigar problemas, compreender sistemas e buscar causas-raiz antes mesmo de trabalhar com interfaces.
 
-Hoje curso Análise e Desenvolvimento de Sistemas e me especializo em Front-end com React e JavaScript, aplicando essa mesma disciplina na construção de interfaces modernas, acessíveis e escaláveis.
+Hoje curso Análise e Desenvolvimento de Sistemas e direciono minha carreira para o desenvolvimento Front-end, trabalhando com **React, TypeScript e JavaScript** na construção de interfaces responsivas, acessíveis e organizadas.
 
-Minha formação em Humanidades (UFRN) complementa essa base técnica, trazendo uma visão centrada no usuário e no contexto de uso das aplicações.
+Minha formação em Humanidades pela UFRN complementa essa base técnica com uma visão centrada no usuário, comunicação e compreensão do contexto de uso das aplicações.
 
-Meu objetivo é desenvolver produtos que unam boa experiência, arquitetura consistente e qualidade de código.
+Busco desenvolver produtos digitais que combinem boa experiência, arquitetura consistente, acessibilidade e qualidade de código.
 
 ---
 
 # Atualmente
 
-- Desenvolvendo a Lumière Bags
-- Construindo a Astera Studio
-- Estudando TypeScript e Next.js
-- Evoluindo em arquitetura Front-end
+* Desenvolvendo e evoluindo projetos com React e TypeScript
+* Trabalhando na presença digital da Astera Studio
+* Aprofundando conhecimentos em arquitetura Front-end
+* Estudando Next.js e expandindo conhecimentos no ecossistema React
 
 ---
 
@@ -50,9 +50,9 @@ Meu objetivo é desenvolver produtos que unam boa experiência, arquitetura cons
 
 ### Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vercel" />
 
-### Arquitetura & Ferramentas
+### Ferramentas & Design
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
 
@@ -62,11 +62,48 @@ Meu objetivo é desenvolver produtos que unam boa experiência, arquitetura cons
 
 ### Estudando
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs" />
 
 ---
 
 # Projetos em destaque
+
+## ✦ Astera Studio
+
+<div align="center">
+<img src="./assets/astera.png" alt="SOC Dashboard" width="100%" />
+</div>
+
+Site institucional desenvolvido para a **Astera Studio**, estúdio criativo independente que une estratégia, design e tecnologia.
+
+A interface partiu de uma proposta visual desenvolvida no Figma e de uma implementação inicial com apoio do Figma Make. O projeto foi posteriormente estruturado e refatorado em React + TypeScript, com foco em arquitetura de componentes, responsividade, acessibilidade e manutenção.
+
+**Stack**
+
+React 19 • TypeScript • Vite • Tailwind CSS 4 • Vercel
+
+**Destaques técnicos**
+
+* Arquitetura baseada em componentes reutilizáveis
+* Organização de componentes por responsabilidade e domínio
+* Tokens visuais e tipos compartilhados
+* Interface responsiva para desktop, tablet e mobile
+* HTML semântico e melhorias de acessibilidade
+* Navegação por teclado e suporte a `prefers-reduced-motion`
+* Otimização de imagens e carregamento de recursos
+* Validação de tipos e build de produção
+
+<p>
+<a href="https://goastera.com.br/">
+<img src="https://img.shields.io/badge/Site-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/ruthdosanjos/astera-studio-website">
+<img src="https://img.shields.io/badge/C%C3%B3digo-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
 
 ## 🛡️ SOC Dashboard
 
@@ -80,14 +117,15 @@ O projeto demonstra componentização em React, organização de interfaces orie
 
 **Stack**
 
-React • JavaScript • CSS • Vercel
+React • JavaScript • CSS • Recharts • Vercel
 
 **Destaques técnicos**
 
-- Componentização escalável
-- Interfaces orientadas à tomada de decisão
-- Estados de loading, erro e dados vazios
-- Organização de arquitetura Front-end
+* Componentização em React
+* Visualização de dados com Recharts
+* Interface responsiva com dark mode
+* Organização de interfaces orientadas a dados
+* Estruturação de componentes e estados da aplicação
 
 <p>
 <a href="https://dashboard-soc-lovat.vercel.app/">
@@ -107,22 +145,21 @@ React • JavaScript • CSS • Vercel
 <img src="./assets/lumiere-preview.jpeg" alt="Lumière Bags" width="100%" />
 </div>
 
-E-commerce fictício de bolsas desenvolvido para demonstrar arquitetura Front-end utilizando HTML5, CSS Modular e JavaScript Vanilla.
-
-O projeto enfatiza organização de código, componentes reutilizáveis, responsividade, acessibilidade, performance e gerenciamento de estado utilizando LocalStorage.
+E-commerce fictício de bolsas desenvolvido em JavaScript Vanilla para explorar arquitetura Front-end sem frameworks, gerenciamento de estado no cliente e construção de um fluxo completo de compra.
 
 **Stack**
 
-HTML5 • CSS Modular • JavaScript • Vercel
+HTML5 • CSS Modular • JavaScript • Fetch API • Web Storage API • Vercel
 
 **Destaques técnicos**
 
-- Arquitetura CSS modular
-- JavaScript organizado por responsabilidades
-- Carrinho persistente com LocalStorage
-- Componentes reutilizáveis
-- Layout totalmente responsivo
-- Boas práticas de acessibilidade
+* Arquitetura modular em JavaScript
+* Carrinho, mini carrinho e checkout estruturado
+* Persistência com LocalStorage e SessionStorage
+* Integração com ViaCEP por Fetch API
+* Componentes reutilizáveis
+* Layout responsivo
+* HTML semântico e práticas de acessibilidade
 
 <p>
 <a href="https://lumiere-bags.vercel.app/">
@@ -146,16 +183,16 @@ Redes & Cybersecurity
 (CCST Cisco)
         │
         ▼
-Front-end
-(React • JavaScript • Arquitetura)
+Desenvolvimento Front-end
+(React • TypeScript • JavaScript)
 ```
 
 ---
 
 # Certificações
 
-- Cisco CCST Networking
-- Cisco CCST Cybersecurity
+* Cisco CCST Networking
+* Cisco CCST Cybersecurity
 
 ---
 
@@ -180,3 +217,4 @@ Front-end
 <sub>Building modern interfaces with an infrastructure mindset.</sub>
 
 </div>
+
