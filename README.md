@@ -71,7 +71,7 @@ Busco desenvolver produtos digitais que combinem boa experiência, arquitetura c
 ## ✦ Astera Studio
 
 <div align="center">
-<img src="./assets/astera.jpeg" alt="SOC Dashboard" width="100%" />
+<img src="./assets/astera.jpeg" alt="Astera Studio" width="100%" />
 </div>
 
 Site institucional desenvolvido para a **Astera Studio**, estúdio criativo independente que une estratégia, design e tecnologia.
